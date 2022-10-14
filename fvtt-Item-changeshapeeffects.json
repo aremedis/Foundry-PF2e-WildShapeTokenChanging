@@ -1,5 +1,5 @@
 {
-  "name": "ChangeShapeEffects",
+  "name": "ChangeShapeEffects v2",
   "type": "feat",
   "img": "systems/pf2e/icons/default-icons/effect.svg",
   "system": {
@@ -142,7 +142,7 @@
       {
           "key": "TokenImage",
           "value": "art/tokens/WildShape/DinosaurForm/stegosaurus.png",
-          "predicate": ["self:effect:dinosaur-form-stagosaurus"]
+          "predicate": ["self:effect:dinosaur-form-stegosaurus"]
       },
       {
         "key": "TokenImage",
@@ -157,7 +157,40 @@
         "predicate": [
           "self:effect:dinosaur-form-triceratops"
         ]
-      }
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AerialForm/bat.png",
+        "predicate": [
+          "self:effect:aerial-form-bat"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AerialForm/bird.png",
+        "predicate": [
+          "self:effect:aerial-form-bird"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AerialForm/pterosaur.png",
+        "predicate": [
+          "self:effect:aerial-form-pterosaur"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AerialForm/wasp.png",
+        "predicate": [
+          "self:effect:aerial-form-wasp"
+        ]
+      },
+
+      {
+        "key": "TokenImage"
+        
+      }      
     ],
     "slug": null,
     "schema": {
