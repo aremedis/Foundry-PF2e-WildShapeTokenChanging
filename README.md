@@ -15,7 +15,7 @@ If you do not have an image in the defined location, the token will revert to th
 
 In order to have the tokens show, you will need to create a personal library of token images for the various forms.
 
-The values here use "art/tokens/WildShape/<form>.png".  (Path is relative to your Foundry User Data Directory)
+The values here use "art/tokens/WildShape/{tokenname}.png".  (Path is relative to your Foundry User Data Directory)
 You will need to point each Rule Element to an appropriate image file. 
 
 # Updating the Item
