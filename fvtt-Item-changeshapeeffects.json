@@ -1,0 +1,216 @@
+{
+  "name": "ChangeShapeEffects",
+  "type": "feat",
+  "img": "systems/pf2e/icons/default-icons/effect.svg",
+  "system": {
+    "description": {
+      "value": ""
+    },
+    "source": {
+      "value": ""
+    },
+    "traits": {
+      "value": [],
+      "rarity": "common",
+      "custom": ""
+    },
+    "rules": [
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/pestform.png",
+        "predicate": [
+          "self:effect:pest-form"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DinosaurForm/triceratops.png",
+        "predicate": [
+          "self:effect:dinosaur-form-triceratops"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Ape.png",
+        "predicate": ["self:effect:animal-form-ape"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Bear.png",
+        "predicate": ["self:effect:animal-form-bear"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Bull.png",
+        "predicate": ["self:effect:animal-form-bull"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Canine.png",
+        "predicate": ["self:effect:animal-form-canine"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Cat.png",
+        "predicate": ["self:effect:animal-form-cat"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Deer.png",
+        "predicate": ["self:effect:animal-form-deer"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Frog.png",
+        "predicate": ["self:effect:animal-form-frog"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Shark.png",
+        "predicate": ["self:effect:animal-form-shark"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AnimalForm/Snake.png",
+        "predicate": ["self:effect:animal-form-snake"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Black_dragon.png",
+        "predicate": ["self:effect:dragon-form-black"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Blue_dragon.png",
+        "predicate": ["self:effect:dragon-form-blue"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Brass_dragon.png",
+        "predicate": ["self:effect:dragon-form-brass"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Bronze_dragon.png",
+        "predicate": ["self:effect:dragon-form-bronze"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Copper_dragon.png",
+        "predicate": ["self:effect:dragon-form-copper"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Gold_dragon.png",
+        "predicate": ["self:effect:dragon-form-gold"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Green_dragon.png",
+        "predicate": ["self:effect:dragon-form-green"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Red_dragon.png",
+        "predicate": ["self:effect:dragon-form-red"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/Silver_dragon.png",
+        "predicate": ["self:effect:dragon-form-silver"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DragonForm/White_dragon.png",
+        "predicate": ["self:effect:dragon-form-white"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DinosaurForm/ankylosaurus.png",
+        "predicate": ["self:effect:dinosaur-form-ankylosaurus"]
+      },
+      {
+          "key": "TokenImage",
+          "value": "art/tokens/WildShape/DinosaurForm/brontosaurus.png",
+          "predicate": ["self:effect:dinosaur-form-brontosaurus"]
+      },
+      {
+          "key": "TokenImage",
+          "value": "art/tokens/WildShape/DinosaurForm/deinonychus.png",
+          "predicate": ["self:effect:dinosaur-form-deinonychus"]
+      },
+      {
+          "key": "TokenImage",
+          "value": "art/tokens/WildShape/DinosaurForm/stegosaurus.png",
+          "predicate": ["self:effect:dinosaur-form-stagosaurus"]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DinosaurForm/trex.png",
+        "predicate": [
+          "self:effect:dinosaur-form-tyrannosaurus"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DinosaurForm/triceratops.png",
+        "predicate": [
+          "self:effect:dinosaur-form-triceratops"
+        ]
+      }
+    ],
+    "slug": null,
+    "schema": {
+      "version": 0.794,
+      "lastMigration": {
+        "datetime": "2022-10-14T12:19:40.618-05:00",
+        "version": {
+          "schema": null,
+          "foundry": "10.288",
+          "system": "4.2.5"
+        }
+      }
+    },
+    "level": {
+      "value": 0
+    },
+    "featType": {
+      "value": "bonus"
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actionCategory": {
+      "value": ""
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "location": null
+  },
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.0qZ7VKsrgAluPCOg"
+    },
+    "exportSource": {
+      "world": "age-of-ashes",
+      "system": "pf2e",
+      "coreVersion": "10.288",
+      "systemVersion": "4.2.5"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.2.5",
+    "coreVersion": "10.288",
+    "createdTime": 1665767980619,
+    "modifiedTime": 1665769236390,
+    "lastModifiedBy": "XZdWBY4WfvurfZ6v"
+  }
+}

@@ -1,0 +1,165 @@
+Animal Forms:
+Ape
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Ape.png",
+    "predicate": ["self:effect:animal-form-ape"]
+}
+Bear
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Bear.png",
+    "predicate": ["self:effect:animal-form-bear"]
+}
+Bull
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Bull.png",
+    "predicate": ["self:effect:animal-form-bull"]
+}
+Canine
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Canine.png",
+    "predicate": ["self:effect:animal-form-canine"]
+}
+Cat
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Cat.png",
+    "predicate": ["self:effect:animal-form-cat"]
+}
+Deer
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Deer.png",
+    "predicate": ["self:effect:animal-form-deer"]
+}
+Frog
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Frog.png",
+    "predicate": ["self:effect:animal-form-frog"]
+}
+Shark
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Shark.png",
+    "predicate": ["self:effect:animal-form-shark"]
+}
+Snake
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/AnimalForm/Snake.png",
+    "predicate": ["self:effect:animal-form-snake"]
+}
+Dragon Forms:
+Black
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Black_dragon.png",
+    "predicate": ["self:effect:dragon-form-black"]
+}
+Blue
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Blue_dragon.png",
+    "predicate": ["self:effect:dragon-form-blue"]
+}
+Brass
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Brass_dragon.png",
+    "predicate": ["self:effect:dragon-form-brass"]
+}
+Bronze
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Bronze_dragon.png",
+    "predicate": ["self:effect:dragon-form-bronze"]
+}
+Copper
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Copper_dragon.png",
+    "predicate": ["self:effect:dragon-form-copper"]
+}
+Gold
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Gold_dragon.png",
+    "predicate": ["self:effect:dragon-form-gold"]
+}
+Green
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Green_dragon.png",
+    "predicate": ["self:effect:dragon-form-green"]
+}
+Red
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Red_dragon.png",
+    "predicate": ["self:effect:dragon-form-red"]
+}
+Silver
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/Silver_dragon.png",
+    "predicate": ["self:effect:dragon-form-silver"]
+}
+White
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DragonForm/White_dragon.png",
+    "predicate": ["self:effect:dragon-form-white"]
+}
+Dinosaur Forms:
+Ankylosaurus
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DinosaurForm/ankylosaurus.png",
+    "predicate": ["self:effect:dinosaur-form-ankylosaurus"]
+}
+Brontosaurus
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DinosaurForm/brontosaurus.png",
+    "predicate": ["self:effect:dinosaur-form-brontosaurus"]
+}
+Deinonychus
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DinosaurForm/deinonychus.png",
+    "predicate": ["self:effect:dinosaur-form-deinonychus"]
+}
+Stegosaurus
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/DinosaurForm/stegosaurus.png",
+    "predicate": ["self:effect:dinosaur-form-stagosaurus"]
+}
+TREX
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DinosaurForm/trex.png",
+  "predicate": [
+    "self:effect:dinosaur-form-tyrannosaurus"
+  ]
+}
+Triceratops
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DinosaurForm/triceratops.png",
+  "predicate": [
+    "self:effect:dinosaur-form-triceratops"
+  ]
+}
+Pest Form
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/pestform.png",
+  "predicate": [
+    "self:effect:pest-form"
+  ]
+}
