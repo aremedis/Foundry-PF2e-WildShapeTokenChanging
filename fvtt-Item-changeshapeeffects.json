@@ -186,7 +186,48 @@
           "self:effect:aerial-form-wasp"
         ]
       },
-
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/InsectForm/ant.png",
+        "predicate": [
+          "self:effect:insect-form-ant"
+        ]
+      },
+            {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/InsectForm/beetle.png",
+        "predicate": [
+          "self:effect:insect-form-beetle"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/InsectForm/centipede.png",
+        "predicate": [
+          "self:effect:insect-form-centipede"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/InsectForm/mantis.png",
+        "predicate": [
+          "self:effect:insect-form-mantis"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/InsectForm/scorpion.png",
+        "predicate": [
+          "self:effect:insect-form-scorpion"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/InsectForm/spider.png",
+        "predicate": [
+          "self:effect:insect-form-spider"
+        ]
+      },            
       {
         "key": "TokenImage"
         

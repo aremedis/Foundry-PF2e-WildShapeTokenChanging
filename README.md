@@ -29,10 +29,11 @@ Animal Form
 Dragon Form
 Dinosaur Form
 Aerial Form
+Insect Form
 
 ---
 Polymorph Spell Rule Elements to be added:
-Insect Form
+
 Elephant Form
 Elemental Form
 Plant Form
