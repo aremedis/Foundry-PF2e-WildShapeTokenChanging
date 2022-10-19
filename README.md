@@ -30,12 +30,14 @@ Dragon Form
 Dinosaur Form
 Aerial Form
 Insect Form
+Elephant Form
+Elemental Form
 
 ---
 Polymorph Spell Rule Elements to be added:
 
-Elephant Form
-Elemental Form
+
+
 Plant Form
 Cosmic Form
 Monstrosity Form
