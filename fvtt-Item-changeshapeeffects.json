@@ -227,7 +227,43 @@
         "predicate": [
           "self:effect:insect-form-spider"
         ]
-      },            
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/ElephantForm/mastodon.png",
+        "predicate": [
+          "self:effect:elephant-form"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/ElementalForm/elemental_air.png",
+        "predicate": [
+          "self:effect:elemental-form-air"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/ElementalForm/elemental_earth.png",
+        "predicate": [
+          "self:effect:elemental-form-earth"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/ElementalForm/elemental_fire.png",
+        "predicate": [
+          "self:effect:elemental-form-fire"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/ElementalForm/elemental_water.png",
+        "predicate": [
+          "self:effect:elemental-form-water"
+        ]
+      },
+
       {
         "key": "TokenImage"
         
