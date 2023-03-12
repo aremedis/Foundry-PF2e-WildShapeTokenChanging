@@ -1,5 +1,5 @@
 {
-  "name": "ChangeShapeEffects v3",
+  "name": "ChangeShapeEffects v4",
   "type": "feat",
   "img": "systems/pf2e/icons/default-icons/effect.svg",
   "system": {
@@ -263,7 +263,72 @@
           "self:effect:elemental-form-water"
         ]
       },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/cosmicform.png",
+        "predicate": [
+          "self:effect:cosmic-form-moon"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/cosmicform.png",
+        "predicate": [
+          "self:effect:cosmic-form-sun"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/PlantForm/plantform-arboreal.png",
+        "predicate": [
+          "self:effect:plant-form-arboreal"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/PlantForm/plantform-flytrap.png",
+        "predicate": [
+          "self:effect:plant-form-flytrap"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/PlantForm/plantform-shambler.png",
+        "predicate": [
+          "self:effect:plant-form-shambler"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AngelForm/Angel_Balisse.png",
+        "predicate": [
+          "self:effect:angel-form-balisse"
+        ]
+      },
 
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AngelForm/Angel_Choral.png",
+        "predicate": [
+          "self:effect:angel-form-choral"
+        ]
+      },
+
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AngelForm/Angel_MonadicDeva.png",
+        "predicate": [
+          "self:effect:angel-form-monadic-deva"
+        ]
+      },
+
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AngelForm/Angel_MovanicDeva.png",
+        "predicate": [
+          "self:effect:angel-form-movanic-deva"
+        ]
+      },
       {
         "key": "TokenImage"
         

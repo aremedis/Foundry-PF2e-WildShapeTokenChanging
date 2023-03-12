@@ -32,16 +32,18 @@ Aerial Form
 Insect Form
 Elephant Form
 Elemental Form
+Cosmic Form
+Plant Form
+Angel Form
 
 ---
 Polymorph Spell Rule Elements to be added:
 
 
 
-Plant Form
-Cosmic Form
+
 Monstrosity Form
-Angel Form
+
 Demon Form
 Fey Form
 Devil Form
