@@ -265,14 +265,14 @@
       },
       {
         "key": "TokenImage",
-        "value": "art/tokens/WildShape/cosmicform.png",
+        "value": "art/tokens/WildShape/CosmicForm/cosmicform-moon.png",
         "predicate": [
           "self:effect:cosmic-form-moon"
         ]
       },
       {
         "key": "TokenImage",
-        "value": "art/tokens/WildShape/cosmicform.png",
+        "value": "art/tokens/WildShape/CosmicForm/cosmicform-sun.png",
         "predicate": [
           "self:effect:cosmic-form-sun"
         ]
