@@ -24,28 +24,27 @@ If you import a new version of the "ChangeShapeEffects" item, you will need to r
 
 ---
 Polymorph Spell Forms Completed:
-Pest Form
-Animal Form
-Dragon Form
-Dinosaur Form
-Aerial Form
-Insect Form
-Elephant Form
-Elemental Form
-Cosmic Form
-Plant Form
-Angel Form
-Demon Form
-Fey Form
-Devil Form
-Daemon Form
-Ooze Form
-Aberrant Form
+Pest Form,
+Animal Form,
+Dragon Form,
+Dinosaur Form,
+Aerial Form,
+Insect Form,
+Elephant Form,
+Elemental Form,
+Cosmic Form,
+Plant Form,
+Angel Form,
+Demon Form,
+Fey Form,
+Devil Form,
+Daemon Form,
+Ooze Form,
+Aberrant Form,
 Monstrosity Form
 
 ---
 Polymorph Spell Rule Elements to be added:
-
 
 
 
