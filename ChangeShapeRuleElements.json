@@ -1,5 +1,5 @@
 {
-  "name": "ChangeShapeEffects v4",
+  "name": "ChangeShapeEffects v5",
   "type": "feat",
   "img": "systems/pf2e/icons/default-icons/effect.svg",
   "system": {
@@ -73,56 +73,6 @@
         "key": "TokenImage",
         "value": "art/tokens/WildShape/AnimalForm/Snake.png",
         "predicate": ["self:effect:animal-form-snake"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Black_dragon.png",
-        "predicate": ["self:effect:dragon-form-black"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Blue_dragon.png",
-        "predicate": ["self:effect:dragon-form-blue"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Brass_dragon.png",
-        "predicate": ["self:effect:dragon-form-brass"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Bronze_dragon.png",
-        "predicate": ["self:effect:dragon-form-bronze"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Copper_dragon.png",
-        "predicate": ["self:effect:dragon-form-copper"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Gold_dragon.png",
-        "predicate": ["self:effect:dragon-form-gold"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Green_dragon.png",
-        "predicate": ["self:effect:dragon-form-green"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Red_dragon.png",
-        "predicate": ["self:effect:dragon-form-red"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/Silver_dragon.png",
-        "predicate": ["self:effect:dragon-form-silver"]
-      },
-      {
-        "key": "TokenImage",
-        "value": "art/tokens/WildShape/DragonForm/White_dragon.png",
-        "predicate": ["self:effect:dragon-form-white"]
       },
       {
         "key": "TokenImage",
@@ -329,6 +279,199 @@
           "self:effect:angel-form-movanic-deva"
         ]
       },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AbberantForm/Chuul.png",
+        "predicate": [
+          "self:effect:aberrant-form-chuul"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AbberantForm/Gogiteth.png",
+        "predicate": [
+          "self:effect:aberrant-form-gogiteth"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AbberantForm/Gug.png",
+        "predicate": [
+          "self:effect:aberrant-form-gug"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/AbberantForm/Otyugh.png",
+        "predicate": [
+          "self:effect:aberrant-form-otyugh"
+        ]
+      },
+      {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DaemonForm/Ceustodaemon.png",
+        "predicate": ["self:effect:daemon-form-ceustodaemon"]
+    },
+    {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DaemonForm/Leukodaemon.png",
+        "predicate": ["self:effect:daemon-form-leukodaemon"]
+    },
+    {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DaemonForm/Meladaemon.png",
+        "predicate": ["self:effect:daemon-form-meladaemon"]
+    },
+    {
+        "key": "TokenImage",
+        "value": "art/tokens/WildShape/DaemonForm/Piscodaemon.png",
+        "predicate": ["self:effect:daemon-form-piscodaemon"]
+    },
+    {
+      "key": "TokenImage",
+      "value": "art/tokens/WildShape/DevilForm/Barbazu.png",
+      "predicate": ["self:effect:devil-form-barbazu"]
+  },
+  {
+      "key": "TokenImage",
+      "value": "art/tokens/WildShape/DevilForm/Erinyes.png",
+      "predicate": ["self:effect:devil-form-erinyes"]
+  },
+  {
+      "key": "TokenImage",
+      "value": "art/tokens/WildShape/DevilForm/Osyluth.png",
+      "predicate": ["self:effect:devil-form-osyluth"]
+  },
+  {
+      "key": "TokenImage",
+      "value": "art/tokens/WildShape/DevilForm/Sarglagon.png",
+      "predicate": ["self:effect:devil-form-barbazu"]
+  },
+  {
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/FeyForm/Dryad.png",
+    "predicate": ["self:effect:fey-form-dryad"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/FeyForm/Elananx.png",
+    "predicate": ["self:effect:fey-form-elananx"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/FeyForm/Naiad.png",
+    "predicate": ["self:effect:fey-form-naiad"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/FeyForm/Redcap.png",
+    "predicate": ["self:effect:fey-form-redcap"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/FeyForm/Unicorn.png",
+    "predicate": ["self:effect:fey-form-unicorn"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/OozeForm/BlackPudding.png",
+  "predicate": ["self:effect:ooze-form-black-pudding"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/OozeForm/GelatinousCube.png",
+  "predicate": ["self:effect:ooze-form-gelatinous-cube"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/OozeForm/GrayOoze.png",
+  "predicate": ["self:effect:ooze-form-gray-ooze"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/OozeForm/OchreJelly.png",
+  "predicate": ["self:effect:ooze-form-ochre-jelly"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/HornedDragon.png",
+  "predicate": ["self:effect:dragon-form-horned"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/AdamantineDragon.png",
+  "predicate": ["self:effect:dragon-form-adamantine"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/ConspiratorDragon.png",
+  "predicate": ["self:effect:dragon-form-conspirator"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/DiabolicDragon.png",
+  "predicate": ["self:effect:dragon-form-diabolic"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/EmpyrealDragon.png",
+  "predicate": ["self:effect:dragon-form-empyreal"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/FortuneDragon.png",
+  "predicate": ["self:effect:dragon-form-fortune"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/MirageDragon.png",
+  "predicate": ["self:effect:dragon-form-mirage"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DragonForm/OmenDragon.png",
+  "predicate": ["self:effect:dragon-form-omen"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DemonForm/Demon_Babau.png",
+  "predicate": ["self:effect:demon-form-babau"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DemonForm/Demon_Hezrou.png",
+  "predicate": ["self:effect:demon-form-hezrou"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DemonForm/Demon_Nabasu.png",
+  "predicate": ["self:effect:demon-form-nabasu"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/DemonForm/Demon_Vrock.png",
+  "predicate": ["self:effect:demon-form-vrock"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/MonstrosityForm/CaveWorm.png",
+  "predicate": ["self:effect:monstrosity-form-cave-worm"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/MonstrosityForm/Phoenix.png",
+  "predicate": ["self:effect:monstrosity-form-phoenix"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/MonstrosityForm/SeaSerpent.png",
+  "predicate": ["self:effect:monstrosity-form-sea-serpent"]
+},
+{
+  "key": "TokenImage",
+  "value": "art/tokens/WildShape/MonstrosityForm/Kaiju.png",
+  "predicate": ["self:effect:monstrosity-form-kaiju"]
+},   
       {
         "key": "TokenImage"
         

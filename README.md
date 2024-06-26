@@ -5,7 +5,7 @@ This project is designed to facilitate automatically changing the token image wh
 # Quick Use:
 1. Create a new "Item" in foundry
 2. Right Click the item, and select "Import Data"
-3. Choose the "fvtt-Item-changeshapeeffects.json" to import
+3. Choose the "ChangeShapeRuleElements.json" file to import
 4. This will rename the Item to "ChangeShapeEffects"
 5. Apply this item to any actors which will be changing forms (ie Wild Order Druids).
 	- It will show up as a Bonus Feat for the Actor.
@@ -35,6 +35,13 @@ Elemental Form
 Cosmic Form
 Plant Form
 Angel Form
+Demon Form
+Fey Form
+Devil Form
+Daemon Form
+Ooze Form
+Aberrant Form
+Monstrosity Form
 
 ---
 Polymorph Spell Rule Elements to be added:
@@ -42,11 +49,6 @@ Polymorph Spell Rule Elements to be added:
 
 
 
-Monstrosity Form
 
-Demon Form
-Fey Form
-Devil Form
-Daemon Form
-Ooze Form
-Aberrant Form
+
+

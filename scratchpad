@@ -1,0 +1,31 @@
+template
+
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/<SpellForm>/icon.png",
+    "predicate": ["self:effect:spell-form"]
+},
+
+
+Monstrosity Form
+
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/MonstrosityForm/CaveWorm.png",
+    "predicate": ["self:effect:monstrosity-form-cave-worm"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/MonstrosityForm/Phoenix.png",
+    "predicate": ["self:effect:monstrosity-form-phoenix"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/MonstrosityForm/SeaSerpent.png",
+    "predicate": ["self:effect:monstrosity-form-sea-serpent"]
+},
+{
+    "key": "TokenImage",
+    "value": "art/tokens/WildShape/MonstrosityForm/Kaiju.png",
+    "predicate": ["self:effect:monstrosity-form-kaiju"]
+},
