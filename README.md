@@ -8,7 +8,7 @@ This project is designed to facilitate automatically changing the token image wh
 3. Choose the "ChangeShapeRuleElements.json" file to import
 4. This will rename the Item to "ChangeShapeEffects"
 5. Apply this item to any actors which will be changing forms (ie Wild Order Druids).
-	- It will show up as a Bonus Feat for the Actor.
+	- It will show up as an Effect for the Actor, only visible to the GM.
 
 Now when applying any of the 'form' spell effects, the token will automatically change images.
 
