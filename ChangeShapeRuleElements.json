@@ -1,18 +1,11 @@
 {
-  "name": "ChangeShapeEffects v5",
-  "type": "feat",
-  "img": "systems/pf2e/icons/default-icons/effect.svg",
+  "name": "ChangeShapeTokenChange",
+  "type": "effect",
+  "effects": [],
   "system": {
     "description": {
+      "gm": "",
       "value": ""
-    },
-    "source": {
-      "value": ""
-    },
-    "traits": {
-      "value": [],
-      "rarity": "common",
-      "custom": ""
     },
     "rules": [
       {
@@ -478,57 +471,56 @@
       }      
     ],
     "slug": null,
-    "schema": {
-      "version": 0.794,
-      "lastMigration": {
-        "datetime": "2022-10-14T12:19:40.618-05:00",
-        "version": {
-          "schema": null,
-          "foundry": "10.288",
-          "system": "4.2.5"
-        }
-      }
+    "_migration": {
+      "version": 0.931,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
     },
     "level": {
       "value": 0
     },
-    "featType": {
-      "value": "bonus"
+    "duration": {
+      "value": -1,
+      "unit": "unlimited",
+      "expiry": null,
+      "sustained": false
     },
-    "onlyLevel1": false,
-    "maxTakable": 1,
-    "actionType": {
-      "value": "passive"
+    "start": {
+      "value": 0,
+      "initiative": null
     },
-    "actionCategory": {
-      "value": ""
+    "tokenIcon": {
+      "show": false
     },
-    "actions": {
-      "value": null
-    },
-    "prerequisites": {
-      "value": []
-    },
-    "location": null
+    "badge": null,
+    "context": null,
+    "unidentified": true
   },
-  "effects": [],
+  "img": "systems/pf2e/icons/default-icons/effect.svg",
+  "folder": null,
   "flags": {
-    "core": {
-      "sourceId": "Item.0qZ7VKsrgAluPCOg"
-    },
     "exportSource": {
-      "world": "age-of-ashes",
+      "world": "extinction-curse",
       "system": "pf2e",
-      "coreVersion": "10.288",
-      "systemVersion": "4.2.5"
+      "coreVersion": "12.328",
+      "systemVersion": "6.0.4"
     }
   },
   "_stats": {
+    "coreVersion": "12.328",
     "systemId": "pf2e",
-    "systemVersion": "4.2.5",
-    "coreVersion": "10.288",
-    "createdTime": 1665767980619,
-    "modifiedTime": 1665769236390,
-    "lastModifiedBy": "XZdWBY4WfvurfZ6v"
+    "systemVersion": "6.0.4",
+    "createdTime": 1720801620181,
+    "modifiedTime": 1720802019506,
+    "lastModifiedBy": "vKR2puF6SI2SgnSu"
   }
 }
